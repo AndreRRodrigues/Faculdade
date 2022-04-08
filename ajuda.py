@@ -1,4 +1,4 @@
-m1=int(input('digite um numero: '))
+'''m1=int(input('digite um numero: '))
 m2=int(input('digite um numero: '))
 m3=int(input('digite um numero: '))
 
@@ -7,3 +7,6 @@ print(mp)
 md=mp/(2+3+5)
 
 print('a media ponderada é {}'.format(md))
+'''
+inss=5000*11/100
+print(inss)
