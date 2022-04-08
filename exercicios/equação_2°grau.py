@@ -1,6 +1,7 @@
+a=int(input('informe o valor de A: '))
 
-while a==0:
-    a=input('informe o valor de A: ')
+
+while true:
 
     if a > 0:
         b=int(input('informe o valor de B'))
