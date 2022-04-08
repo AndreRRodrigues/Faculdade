@@ -1,6 +1,10 @@
-a=input('digite o valor de A: ')
 
-if a == 0 :
-    print('Se o numero for 0 a equação se torna do primeiro grau')
-else:
-    print()
+while a==0:
+    a=input('informe o valor de A: ')
+
+    if a > 0:
+        b=int(input('informe o valor de B'))
+        c=int(input('informe o valor de C'))
+
+    else:
+        print('O valor de A nao pode ser 0')
